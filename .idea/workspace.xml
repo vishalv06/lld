@@ -4,34 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a97abff-ed05-4ef1-af43-361fd2d8883f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1a97abff-ed05-4ef1-af43-361fd2d8883f" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/solid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/solid.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/invoice/CSVFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/invoice/CSVFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/invoice/HTMLFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/invoice/HTMLFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/invoice/InvoiceFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/invoice/InvoiceFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/invoice/InvoicePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/invoice/InvoicePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/invoice/PDFFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/invoice/PDFFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/notification/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/notification/EmailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/notification/NotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/notification/NotificationSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/notification/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/notification/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/notification/SmsSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/notification/SmsSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/ocp/notification/WhatsappSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/ocp/notification/WhatsappSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/book/BookPersistence.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/book/BookPersistence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/book/BookPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/book/BookPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/invoice/FilePersistence.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/invoice/FilePersistence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/invoice/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/invoice/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/invoice/InvoicePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/invoice/InvoicePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/order/OrderPersistence.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/order/OrderPersistence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/order/OrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/order/OrderProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/order/SMSManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/order/SMSManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/user/UserPersistence.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/user/UserPersistence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid/src/srp/user/WelcomeEmailManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/lowLevelDesign/src/solid/srp/user/WelcomeEmailManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/CSVFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/HTMLFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/InvoiceFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/InvoicePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/PDFFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/EmailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/NotificationSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/NotificationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/SmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/WhatsappSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/BookPersistence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/BookPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/FilePersistence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/InvoicePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/OrderPersistence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/OrderProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/SMSManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/UserPersistence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/WelcomeEmailManager.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ecomm">
-    <configuration name="ComputerKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.dip.ComputerKeyboard" />
+  <component name="RunManager" selected="Application.TestNotificationFactory">
+    <configuration name="TestAnalyticsTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestAnalyticsTracker" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.dip.*" />
+          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContentCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.isp.ContentCreator" />
+    <configuration name="TestConfigurationManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestConfigurationManager" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.isp.*" />
+          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ecomm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.project.ecomm.Ecomm" />
+    <configuration name="TestDatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestDatabaseConnection" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.project.ecomm.*" />
+          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotificationEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.dip.NotificationEmail" />
+    <configuration name="TestLicenseManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestLicenseManager" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.dip.*" />
+          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.isp.Printer" />
+    <configuration name="TestNotificationFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.factory.TestNotificationFactory" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.isp.*" />
+          <option name="PATTERN" value="designpatterns.creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ecomm" />
-        <item itemvalue="Application.NotificationEmail" />
-        <item itemvalue="Application.ComputerKeyboard" />
-        <item itemvalue="Application.ContentCreator" />
-        <item itemvalue="Application.Printer" />
+        <item itemvalue="Application.TestNotificationFactory" />
+        <item itemvalue="Application.TestLicenseManager" />
+        <item itemvalue="Application.TestAnalyticsTracker" />
+        <item itemvalue="Application.TestDatabaseConnection" />
+        <item itemvalue="Application.TestConfigurationManager" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +155,19 @@
       <option name="presentableId" value="Default" />
       <updated>1751273069905</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice">
+      <option name="closed" value="true" />
+      <created>1752261109325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752261109328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
