@@ -6,30 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a97abff-ed05-4ef1-af43-361fd2d8883f" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/CSVFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/HTMLFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/InvoiceFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/InvoicePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/invoice/PDFFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/EmailSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/NotificationSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/NotificationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/SmsSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/ocp/notification/WhatsappSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/BookPersistence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/book/BookPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/FilePersistence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/Invoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/invoice/InvoicePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/OrderPersistence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/OrderProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/order/SMSManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/UserPersistence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solid/srp/user/WelcomeEmailManager.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestNotificationFactory">
-    <configuration name="TestAnalyticsTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestAnalyticsTracker" />
+  <component name="RunManager" selected="Application.CrossPlatformPaymentGateway">
+    <configuration name="CrossDeviceMediaPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.abstractfactory.mediaplayer.CrossDeviceMediaPlayer" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
+          <option name="PATTERN" value="designpatterns.creational.abstractfactory.mediaplayer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConfigurationManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestConfigurationManager" />
+    <configuration name="CrossPlatformPaymentGateway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.abstractfactory.paymentgateway.CrossPlatformPaymentGateway" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
+          <option name="PATTERN" value="designpatterns.creational.abstractfactory.paymentgateway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,25 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestDatabaseConnection" />
+    <configuration name="CrossPlatformUiToolKit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.abstractfactory.crossplatformui.CrossPlatformUiToolKit" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLicenseManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.Singleton.TestLicenseManager" />
-      <module name="solid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpatterns.creational.Singleton.*" />
+          <option name="PATTERN" value="designpatterns.creational.abstractfactory.crossplatformui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestUiFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.creational.abstractfactory.uitoolkit.TestUiFactory" />
+      <module name="solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpatterns.creational.abstractfactory.crossplatformui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrossPlatformPaymentGateway" />
+        <item itemvalue="Application.CrossDeviceMediaPlayer" />
+        <item itemvalue="Application.CrossPlatformUiToolKit" />
+        <item itemvalue="Application.TestUiFactory" />
         <item itemvalue="Application.TestNotificationFactory" />
-        <item itemvalue="Application.TestLicenseManager" />
-        <item itemvalue="Application.TestAnalyticsTracker" />
-        <item itemvalue="Application.TestDatabaseConnection" />
-        <item itemvalue="Application.TestConfigurationManager" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752261109328</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice">
+      <option name="closed" value="true" />
+      <created>1752431292096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752431292096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
